@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.exe
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.deps.json
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.runtimeconfig.json
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.dll
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.pdb
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.dll
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.pdb
+C:\Users\lenovo\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.genruntimeconfig.cache
